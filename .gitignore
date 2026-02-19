@@ -1,0 +1,6 @@
+# Large Census TIGER shapefiles (exceed GitHub's 100MB limit)
+tl_2020_18_all.zip
+**/tl_2020_18_all.zip
+
+# OS files
+.DS_Store

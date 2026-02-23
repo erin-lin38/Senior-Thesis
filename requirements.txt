@@ -2,6 +2,7 @@ affine==2.4.0
 appnope @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_46iquy4y0r/croot/appnope_1750774774351/work
 asttokens @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_11i8cnwuxs/croot/asttokens_1743630449718/work
 attrs==25.4.0
+branca==0.8.2
 certifi==2026.1.4
 charset-normalizer==3.4.4
 click==8.3.1
@@ -13,6 +14,7 @@ cycler==0.12.1
 debugpy @ file:///opt/miniconda3/conda-bld/debugpy_1762421637290/work
 decorator @ file:///opt/miniconda3/conda-bld/decorator_1757341238163/work
 executing @ file:///opt/miniconda3/conda-bld/executing_1757061235986/work
+folium==0.20.0
 fonttools==4.61.1
 geographiclib==2.1
 geopandas==1.1.2
@@ -22,10 +24,13 @@ ipykernel @ file:///opt/miniconda3/conda-bld/ipykernel_1762946073576/work
 ipython @ file:///opt/miniconda3/conda-bld/ipython_1762789298907/work
 ipython_pygments_lexers @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_25fteymumy/croot/ipython_pygments_lexers_1744753256449/work
 jedi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_38ctoinnl0/croot/jedi_1733987402850/work
+Jinja2==3.1.6
 joblib==1.5.3
+linearmodels>=5.0
 jupyter_client @ file:///Users/ec2-user/croot/jupyter_client_1768399009041/work
 jupyter_core @ file:///opt/miniconda3/conda-bld/jupyter_core_1764588283979/work
 kiwisolver==1.4.9
+MarkupSafe==3.0.3
 matplotlib==3.10.8
 matplotlib-inline @ file:///opt/miniconda3/conda-bld/matplotlib-inline_1762779171616/work
 mercantile==1.2.1
